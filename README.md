@@ -6,3 +6,13 @@ Di dalam pembahasannya di bagi menjadi 3 bagian :
 1. Introduction (pengenalan)
 2. Essential Practise (praktik)
 3. Test Project (membuat project)
+
+Setelah itu, akan diikuti untuk membuat project-project atau tips dan trik.
+
+**1. Introduction**
+a. Interface Introduction
+b. Panels & Workspace
+c. Artboars
+d. Vector Basics
+e. Fill & Stroke
+f. Using Color, swatches, pantone's, gradient
