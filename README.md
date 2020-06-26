@@ -12,14 +12,10 @@ Setelah itu, akan diikuti untuk membuat project-project atau tips dan trik.
 ---
 
 **Introduction** :
-1. Introduction (pengenalan)
-2. Essential Practise (praktik)
-3. Test Project (membuat project)
+1. Interface Introduction
+2. Panels & Workspace
+3. Artboars
+4. Vector Basics
+5. Fill & Stroke
+6. Using Color, Swatches, Pantone's, Gradient
 
-#1. Introduction
-a. Interface Introduction
-b. Panels & Workspace
-c. Artboars
-d. Vector Basics
-e. Fill & Stroke
-f. Using Color, swatches, pantone's, gradient
