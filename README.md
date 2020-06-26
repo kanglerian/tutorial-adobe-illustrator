@@ -19,3 +19,29 @@ Setelah itu, akan diikuti untuk membuat project-project atau tips dan trik.
 5. Fill & Stroke
 6. Using Color, Swatches, Pantone's, Gradient
 
+**Essential Practise** :
+1. Creating Shape Vectors
+2. Grouped Vectors & Using The Shape Builder Tools
+3. Drawing with The Pen Tool, Brush Tools, Pencil Tools
+4. The Blob Brush Tool & Eraser Tool
+5. Type Tool
+
+**Test Project** :
+1. Setting Up Document
+2. Image Trace Tool for Sketches
+3. Tracing a Hand Drawn Sketch
+4. Compounding Vector Shapes & Strokes
+5. Fill & Stroke
+6. Coloring Vectors Drawing
+7. Adding Type to a Posters Design
+8. Prepare and Export Ready for Print
+
+Setelah temen-temen ngikutin video pembelajaran ini, source filenya bisa di download di deskripsi.
+
+---
+
+#Jadi, apa itu **Adobe Illustrator?**
+
+
+
+
