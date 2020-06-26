@@ -10,6 +10,7 @@ Di dalam pembahasannya di bagi menjadi 3 bagian :
 Setelah itu, akan diikuti untuk membuat project-project atau tips dan trik.
 
 #1. Introduction
+
 a. Interface Introduction
 b. Panels & Workspace
 c. Artboars
