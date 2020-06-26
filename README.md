@@ -41,7 +41,19 @@ Setelah temen-temen ngikutin video pembelajaran ini, source filenya bisa di down
 ---
 
 #Jadi, apa itu **Adobe Illustrator?**
+Adobe Illustrator adalah bagian dari Adobe Creative Suite.
+https://www.adobe.com/sea/products/illustrator.html
+Dan belakangan ini, Adobe Illustrator menjadi standar industri untuk membuat Vector Artwork dan Simple Layout Print.
 
+Jika temen-temen ingin membuat logo, illustrations, posters, software ini cocok untuk membuat project tersebut (meskipun software lain juga bisa digunakan untuk alternatifnya).
+
+Tools yang ada di Adobe Illustrator ini sangat mudah digunakan untuk membuat dan memodifikasi shape & stroke untuk membuat rancanganmu. Dan temen-temen juga bisa menambahkan gambar berbasis pixel ke layout temen-temen.
+
+-- Scene Menunjukan gambar sketsa --
+-- Layout Ready for Print --
+-- able to export .PDF .JPG dll. --
+
+Jadi, itu saja di video pertama pembelajaran kita. Terima kasih.
 
 
 
