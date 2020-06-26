@@ -9,7 +9,9 @@ Di dalam pembahasannya di bagi menjadi 3 bagian :
 
 Setelah itu, akan diikuti untuk membuat project-project atau tips dan trik.
 
-Introduction :
+---
+
+**Introduction** :
 1. Introduction (pengenalan)
 2. Essential Practise (praktik)
 3. Test Project (membuat project)
